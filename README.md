@@ -1,2 +1,1 @@
-# 100xCodingPower
-Because 10x isn't Enough🚀
+<img src="100xCP.png">
